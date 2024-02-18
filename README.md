@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3fab1vrip5o4vd3q?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-router-navigation-menu)
+## [Проект](https://vmoiseev.github.io/ra-router_navigation_menu/)
+
 Навигационное меню
 ===
 
